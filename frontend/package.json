@@ -15,7 +15,7 @@
     "@taquito/beacon-wallet": "^13.0.1",
     "@taquito/taquito": "^13.0.1",
     "framer-motion": "^7.10.3",
-    "next": "12.2.4",
+    "next": "13.5.4",
     "qrcode": "^1.5.3",
     "qrcode.react": "^3.1.0",
     "react": "18.2.0",
