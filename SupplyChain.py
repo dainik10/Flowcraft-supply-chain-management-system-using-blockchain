@@ -38,4 +38,4 @@ if "templates" not in __name__:
         c1.add_product(productID=1, productName="MAango", description="Food Item")
         c1.update_status(productID=1, statusDescription="Product Created", longitude="29.292929348", latitude="30.2039439823", time = "15 Sep")
         c1.update_status(productID=1, statusDescription="Sent to Supplier", longitude="93.293498394", latitude="92.394839843", time = "16 Sep")
-    sp.add_compilation_target("SupplyChain", SupplyChain())
+    sp.add_compilation_target("SupplyChain", SupplyChain()) 
